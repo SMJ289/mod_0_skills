@@ -1,0 +1,15 @@
+Class: Sandwiches
+
+Attributes:
+
+bread_type (sting)
+is_vegetarian (boolean)
+price (float)
+ingredients (float)
+
+Methods:
+
+bread_type_gf (changes the bread type to gluten free)
+no_tomato (removes tomato from the ingredients array)
+happy_hour (divides price by 2)
+sub_black_bean (changes is_vegetarian to true)
