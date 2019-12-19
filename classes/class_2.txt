@@ -5,7 +5,7 @@ Attributes:
 bread_type (sting)
 is_vegetarian (boolean)
 price (float)
-ingredients (float)
+ingredients (array)
 
 Methods:
 
