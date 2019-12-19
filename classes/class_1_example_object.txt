@@ -1,0 +1,15 @@
+Instance: dinner_menu
+
+Attributes:
+
+pages = 4
+text_color = "black"
+appetizers = ["fries",  "wings", "nachos"]
+total_items = 20
+
+Methods:
+
+change_text_color (changes text color)
+add_dessert_page (changes pages to 5) (changes total_items to 25)
+add_special (changes total_items to 21)
+remove_appetizer (changes appetizers to ["fries", "wings"]) (changes total_items to 19)
