@@ -1,0 +1,55 @@
+How to Become a Turing Student
+
+1 Apply
+  1.1 Complete the application
+    1.1.1 Navigate to Turing application page
+      1.1.1.1 Open browser
+      1.1.1.2 Type in apply.turing.io
+    1.1.2 Watch the instructional video
+      1.1.2.1 Click the video
+      1.1.2.2 Watch the video
+    1.1.3 Read the directions
+    1.1.4 Click Apply button
+    1.1.5 Fill out the personal information
+      1.1.5.1 Enter name
+      1.1.5.2 Enter email
+      1.1.5.3 Press submit
+    1.1.6 Click link to application in email
+      1.1.6.1 Open email
+      1.1.6.2 Open the Turing application email
+      1.1.6.3 Click link
+    1.1.7 Upload resume
+      1.1.7.1 Create your resume
+      1.1.7.2 Save resume as PDF
+      1.1.7.3 Upload resume
+      1.1.7.4 Click submit
+    1.1.8 Complete the logic quiz
+      1.1.8.1 Navigate to the quiz webpage
+      1.1.8.2 Get a pencil
+      1.1.8.3 Get a piece of paper
+      1.1.8.4 Do the quiz
+      1.1.8.5 Submit answers
+2 Interview
+  2.1 Schedule a time
+  2.2 Answer the questions from the interviewer
+  2.2 Complete the in person logic quiz
+3 Secure Financing
+  3.1 Evaluate the finance options
+  3.2 Apply for loans
+    3.2.1 Navigate to the lender's website
+    3.2.2 Fill out the application
+    3.2.3 Accept the loan terms
+4 Submit deposit
+4 Attend Mod 0
+  4.1 Do the computer set up
+  4.2 Attend sessions
+    4.2.1 Attend session 1
+    4.2.2 Attend session 2
+    4.2.3 Attend session 3
+    4.2.4 Attend session 4
+    4.2.5 Attend session 5
+    4.2.6 Attend session 6
+5 Complete Capstone Assignment
+  5.1 Complete professional development capstone
+  5.2 Complete gear up assignment
+  5.3 Complete technical capstone
