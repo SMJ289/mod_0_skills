@@ -1,0 +1,15 @@
+Instance: Hamburger
+
+Attributes:
+
+bread_type = "wheat"
+is_vegetarian = false
+price = 20
+ingredients ["bread", "patty", "lettuce", "tomato"]
+
+Methods:
+
+bread_type_gf (bread_type = "gf")
+no_tomato (["bread", "patty", "lettuce"])
+happy_hour (price = 10)
+sub_black_bean (is_vegetarian = true)
