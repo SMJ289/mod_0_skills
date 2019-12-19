@@ -1,0 +1,15 @@
+Class: Menu
+
+Attributes:
+
+pages (integer)
+current_menu (integer)
+appetizers (array)
+total_items (integer)
+
+Methods:
+
+activate_dinner_menu (changes current_menu to dinner_menu)
+add_dessert_page (changes pages integer) (changes total_items)
+add_special (changes total_items)
+remove_appetizer (removes an appetizer from the array) (changes total_items)
